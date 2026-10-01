@@ -12,5 +12,5 @@ jobs:
     steps:
       - name: Send HTTP GET request to the endpoint
         run: |
-          curl -X GET "https://fundrush.rivenintech.com/api/cron-demo-data" \
+          curl -X GET "https://fundrush.rivn.dev/api/cron-demo-data" \
             -H "Authorization: Bearer ${{ secrets.CRON_SECRET }}"

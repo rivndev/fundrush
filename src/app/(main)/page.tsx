@@ -208,8 +208,8 @@ export default async function Home() {
             <AccordionContent className="text-neutral-400">
               No, this is a demo website and not an actual fundraising platform. It is one of several projects I have
               built. You can explore more projects like this at{" "}
-              <a href="https://rivenintech.com" target="_blank" className="underline">
-                rivenintech.com
+              <a href="https://rivn.dev" target="_blank" className="underline">
+                rivn.dev
               </a>
               .
             </AccordionContent>

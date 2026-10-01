@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rivenintech/resta">
+  <a href="https://github.com/rivndev/fundrush">
     <img src="./src/app/icon.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,7 +12,7 @@
   <p align="center">
     A fundraising platform built with Next.js.
     <br />
-    <a href="https://fundrush.rivenintech.com"><strong>View Live Site »</strong></a>
+    <a href="https://fundrush.rivn.dev"><strong>View Live Site »</strong></a>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ This project is still in active development phase. Main features that are yet to
 
 ## Contact
 
-[rivenintech.com][my-website-url] - All of my socials, contact information and other projects can be found on my website.
+[rivn.dev][my-website-url] - All of my socials, contact information and other projects can be found on my website.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ This project is still in active development phase. Main features that are yet to
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 [desktop-screenshot]: /public/homepage-desktop.png
-[my-website-url]: https://rivenintech.com/
+[my-website-url]: https://rivn.dev/
 [nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 [nextjs-url]: https://nextjs.org/
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
